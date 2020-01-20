@@ -3,7 +3,7 @@
 ### About
 The Let's Encrypt Certificate Manager obtains a free (SAN) SSL Certificate from the [Let's Encrypt CA](https://letsencrypt.org/) and adds it to Rancher's certificate store. Once the certificate is created it is scheduled for automatic renewal 20-days before expiration. Rancher load balancer services are automatically updated to use the renewed certificate.
 
-### Changelog v0.5.0
+### Changelog latest
 
 - Added support for Aurora DNS, Azure DNS and NS1
 - Added support for stopping container after creating/renewing certificate

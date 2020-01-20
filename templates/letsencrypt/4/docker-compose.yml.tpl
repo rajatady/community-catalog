@@ -1,7 +1,7 @@
 version: '2'
 services:
   letsencrypt:
-    image: vxcontrol/rancher-letsencrypt:v0.5.0
+    image: vxcontrol/rancher-letsencrypt:latest
     environment:
       EULA: "${EULA}"
       API_VERSION: "${API_VERSION}"
