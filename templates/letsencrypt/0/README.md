@@ -19,4 +19,4 @@ If you want your certificate to be automatically renewed leave the service runni
     
 ### Suggestions & issue reports
 
-Please submit suggestions or any issues you find to the [rancher-letsencrypt](https://github.com/janeczku/rancher-letsencrypt) GitHub repo.
+Please submit suggestions or any issues you find to the [rancher-letsencrypt](https://github.com/vxcontrol/rancher-letsencrypt) GitHub repo.

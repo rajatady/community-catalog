@@ -83,4 +83,4 @@ Simply choose `HTTP` from the list of providers.
 Then make sure that HTTP requests to `domain.com/.well-known/acme-challenge` are forwarded to the `rancher-letsencrypt` service, e.g. by configuring a Rancher load balancer accordingly.
 
 ### Suggestions & bug reports
-Please submit suggestions or any issues you find to the [rancher-letsencrypt](https://github.com/janeczku/rancher-letsencrypt) GitHub repo.
+Please submit suggestions or any issues you find to the [rancher-letsencrypt](https://github.com/vxcontrol/rancher-letsencrypt) GitHub repo.
